@@ -7,11 +7,7 @@ Hi, Athex here
 - 🌍 Website [here](https://athexcc.xyz)
 - 📫 Contact: @62cx
 
----
-
-[![Discord Presence](https://lanyard.cnrad.dev/api/917920253902741546?bg=000000&theme=dark&hideSpotify=true&hideActivity=true)](https://discord.com/users/917920253902741546)
-
----
+[![Discord Presence](https://lanyard.cnrad.dev/api/917920253902741546)](https://discord.com/users/917920253902741546)
 
 <a href="https://athexcc.xyz">
 <img src="https://github-readme-stats.vercel.app/api?username=athexcc&show_icons=true&theme=dark" />
