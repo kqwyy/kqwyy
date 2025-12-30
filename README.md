@@ -8,5 +8,5 @@ Hi, Athex here
 - 🌍 Website [here](https://athexcc.xyz)
 - 📫 Contact: @kqwy
 
-[![Discord Presence](https://lanyard.cnrad.dev/api/917920253902741546?showDisplayName=true&hideStatus=true&hideSpotify=true&hideActivity=true&theme=light)](https://discord.com/users/917920253902741546)
+[![Discord Presence](https://lanyard.cnrad.dev/api/791406045515874364?showDisplayName=true&hideStatus=true&hideSpotify=true&hideActivity=true&theme=light)](https://discord.com/users/917920253902741546)
 
