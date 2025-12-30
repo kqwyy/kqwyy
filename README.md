@@ -1,4 +1,4 @@
-Hi, Athex here
+Hi, Kowy here
 - 💼 Recent Positions
     - Administrator & Team Management @ **analystic.de**
     - Detection Team @ **napse.ac**
