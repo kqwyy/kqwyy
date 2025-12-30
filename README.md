@@ -5,7 +5,7 @@ Hi, Athex here
     - Staff & Networking @ **anticheat.ac**
     - Senior PC Checker @ **stormss.cc**
     - Research Director @ **Hypers Clubhouse**
-- 🌍 Website [here](https://athexcc.xyz)
+- 🌍 Website [here](https://blank.xyz)
 - 📫 Contact: @kqwy
 
 [![Discord Presence](https://lanyard.cnrad.dev/api/791406045515874364?showDisplayName=true&hideStatus=true&hideSpotify=true&hideActivity=true&theme=light)](https://discord.com/users/917920253902741546)
