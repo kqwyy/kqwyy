@@ -1,10 +1,5 @@
 Hi, Kowy here
-- 💼 Recent Positions
-    - Administrator & Team Management @ **analystic.de**
-    - Detection Team @ **napse.ac**
-    - Staff & Networking @ **anticheat.ac**
-    - Senior PC Checker @ **stormss.cc**
-    - Research Director @ **Hypers Clubhouse**
+- 💼 FiveM Screensharer and Networking Administrator
 - 🌍 Website [here](https://blank.xyz)
 - 📫 Contact: @kqwy
 
